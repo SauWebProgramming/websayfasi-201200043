@@ -48,3 +48,9 @@
     font-family: 'Times New Roman', Times, serif;
     
 }
+
+.navbar ul li a.active,
+.navbar ul li:hover{
+    background: rosybrown;
+    border-radius: 2px;
+}
