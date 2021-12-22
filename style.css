@@ -1,56 +1,8 @@
-*{
-    margin:0;
-    padding:0;
+.resimSlider{
+    height: 600px;
 }
 
-.container{
-    background: url(cikolatamuzesi.jpg);
-    height: 100vh;
-    background-size: 100% 100%;
-}
-
-.container.navbar{
-    width: 100%;
-    height: 80px;
-    background: rgb(77, 24, 0)
-}
-
-.navbar.logo{
-    display: inline-block;
-    margin-left: 50px;
-    margin-top: 20px;
-}
-
-.navbar.logo a{
-    text-decoration: none;
-    font-size: 25px;
-    font-family: 'Times New Roman', Times, serif;
-    color:seashell;
-}
-
-.navbar.ul{
-    float:right;
-    margin-right: 20px;
-}
-
-.navbar ul li{
-    list-style: none;
-    display: inline-block;
-    margin:0 10px;
-    line-height: 80px;
-}
-
-.navbar ul li a{
-    color: silver;
-    text-decoration: none;
-    font-size: 20px;
-    padding: 6px 13px;
-    font-family: 'Times New Roman', Times, serif;
-    
-}
-
-.navbar ul li a.active,
-.navbar ul li:hover{
-    background: rosybrown;
-    border-radius: 2px;
+body{
+    padding-top: 50px;
+    font-family: 'Montserrat',sans-serif;
 }
