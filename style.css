@@ -6,3 +6,25 @@ body{
     padding-top: 50px;
     font-family: 'Montserrat',sans-serif;
 }
+
+.hakkimizda{
+    background-color: saddlebrown;
+}
+
+.cizgi{
+    border: none;
+    border-top:2px solid tan;
+    max-width: 500px;
+    margin: 25px auto;
+}
+
+.galeri{
+    background-color:whitesmoke;
+}
+
+.figure:hover{
+-ms-transform: scale(1.3); 
+-webkit-transform: scale(1.3); 
+transform: scale(1.3);
+opacity: 0.4;
+}
