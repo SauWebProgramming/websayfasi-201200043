@@ -29,6 +29,10 @@ transform: scale(1.3);
 opacity: 0.4;
 }
 
+.konum{
+    width: 100px;
+}
+
 .iletisim{
     background-color: saddlebrown;
 }
